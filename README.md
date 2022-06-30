@@ -34,6 +34,3 @@ Compatible with API level 21 or higher.
 
 - The application ID was changed to "net.tlfoxhuman.marshmallowland" to avoid conflict with the original.
 
-## Known issues
-
-- Vibration does not work on Android 12. (Maybe another version will also not work. Since I tested only on Android 12, I don't know how other versions behave.)
