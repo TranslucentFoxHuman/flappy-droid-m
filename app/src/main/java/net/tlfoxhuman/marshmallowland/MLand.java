@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.nebur.flappydroid;
+package org.nebur.marshmallowland;
 
 import android.animation.LayoutTransition;
 import android.animation.TimeAnimator;

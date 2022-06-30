@@ -2,7 +2,7 @@
  * Source file: ../frameworks/base/core/java/com/android/internal/logging/EventLogTags.logtags
  */
 
-package org.nebur.flappydroid;
+package org.nebur.marshmallowland;
 
 /**
  * @hide

@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/flappy-droid-m.iml" filepath="$PROJECT_DIR$/flappy-droid-m.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flappy-droid-m.iml" filepath="$PROJECT_DIR$/.idea/modules/flappy-droid-m.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/flappy-droid-m.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/flappy-droid-m.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/flappy-droid-m.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/flappy-droid-m.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/flappy-droid-m.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/flappy-droid-m.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/flappy-droid-m.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/flappy-droid-m.app.unitTest.iml" />
     </modules>
   </component>
 </project>

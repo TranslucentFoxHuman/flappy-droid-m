@@ -13,11 +13,10 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.nebur.flappydroid;
+package org.nebur.marshmallowland;
 
 
 import android.content.Context;
-import android.os.Build;
 import android.view.View;
 
 /**

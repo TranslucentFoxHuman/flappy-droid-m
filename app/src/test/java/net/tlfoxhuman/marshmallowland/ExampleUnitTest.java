@@ -1,4 +1,4 @@
-package org.nebur.flappydroid;
+package org.nebur.marshmallowland;
 
 import org.junit.Test;
 

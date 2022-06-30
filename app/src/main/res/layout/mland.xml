@@ -19,11 +19,11 @@
               android:layout_width="match_parent"
               android:layout_height="match_parent"
         >
-    <org.nebur.flappydroid.MLand
+    <org.nebur.marshmallowland.MLand
             android:id="@+id/world"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
-    </org.nebur.flappydroid.MLand>
+    </org.nebur.marshmallowland.MLand>
     <FrameLayout
             android:id="@+id/welcome"
             android:layout_width="match_parent"
